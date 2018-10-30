@@ -1,0 +1,15 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="colorPrimary">#ed0b0f</item>
+        <item name="colorPrimaryDark">#ea3538</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="SplashTheme" parent ="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+</resources>

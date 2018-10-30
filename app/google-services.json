@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "331106769734",
+    "firebase_url": "https://lghoy-8170f.firebaseio.com",
+    "project_id": "lghoy-8170f",
+    "storage_bucket": "lghoy-8170f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331106769734:android:43736e3c6bf5bcbd",
+        "android_client_info": {
+          "package_name": "com.nerb.laguajirahoy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331106769734-06kc6bn7vg2aa3u3juetmt9l2audfkrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy7voaP97QWfPRp4QkX2uaclcAxAbBquo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
